@@ -1,0 +1,28 @@
+[info]
+author = Mousecach
+icon = .b4w_icon.png
+name = TEST
+title = TEST
+
+[paths]
+assets_dirs = projects/TEST/assets;
+blend_dirs = projects/TEST/blender;
+blender_exec = G:\Games\SteamLibrary\steamapps\common\Blender\blender.exe
+build_dir = projects/TEST/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = advanced
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
